@@ -71,7 +71,6 @@ body {
 
 .main-title
 {
-   text-align: center;
    font-family: "Comic Sans MS", cursive, sans-serif;
    font-weight: bold;
 }
@@ -86,7 +85,6 @@ body {
 .sub-heading
 {
   padding:5px 0px 5px 0px;
-  text-align: center;
   font-family: "Comic Sans MS", cursive, sans-serif;
   font-weight: bold;
   font-size: 1.3em;
