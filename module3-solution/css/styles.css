@@ -1,0 +1,93 @@
+body {
+
+  background-color: #D8B8E4;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #A710E0;
+  border-radius: 0;
+  border: 0;
+  padding-bottom: 20px
+}
+
+.nav{
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.navbar-brand h1{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-weight: bold;
+  color: white;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.navbar-collapse {
+    border-top: 0;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#nav-list {
+  margin-top: 0px;
+  margin-bottom: -5px;
+  overflow: hidden;
+}
+#nav-list a {
+  margin:0px;
+  padding-bottom: 10px;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.5em;
+  border-bottom: 1px solid white;
+}
+#nav-list a:hover {
+  color: black;
+}
+#nav-list a span {
+
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid white;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: black;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -40px;
+}
+/* END HEADER */
+
+.main-title
+{
+   text-align: center;
+   font-family: "Comic Sans MS", cursive, sans-serif;
+   font-weight: bold;
+}
+
+#box-container
+{
+  background-color: #F4E6F7;
+  padding: 0px 15px 0px 15px;
+  margin-bottom: 10px;
+}
+
+.sub-heading
+{
+  padding:5px 0px 5px 0px;
+  text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-weight: bold;
+  font-size: 1.3em;
+}
